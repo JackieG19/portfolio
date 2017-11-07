@@ -1,0 +1,126 @@
+	#banner{
+			z-index: -1; 
+			width: 100vw; 
+			position: absolute; 
+			display: inline-block; 
+			top: 0; left: 0;
+		}
+		h1{
+			font-size: 3em; 
+			font-family: 'Arial', sans-serif;
+			color: white;
+			margin-bottom: 0;
+		}
+		p{
+			color: white; 
+			margin-top: 0; 
+			font-size: 2em; 
+			text-align: center;
+		}
+		#links{
+			position: relative; 
+			margin-top: 40vh;
+			width: 100vw;
+			background-color: white;
+			height: 5vh; opacity: .8;
+			
+		}
+	
+			.themecolor{
+			color: rgba(230, 126, 34,1.0);
+		}
+		.themecolorbg{
+			background-color: rgba(230, 126, 34,1.0);
+		}
+		.news{
+			background-color: #000000; opacity: 8;
+		}
+		
+		#ribbon{
+			display: inline-block; font-size: 2em; font-family: 'Arial', sans-serif;
+			margin-top: 7px;
+			padding-bottom: 3px;
+		}
+		
+		.absolute{
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
+		
+		#bgimg{
+			width: 100vw;
+			z-index: -1;
+		}
+		
+		.me {
+			width:350px; 
+			height:350px;
+			float: right; 
+			margin: 10px 45px 10px 15px;
+			border-radius: 50%;
+		}
+		
+		.call{
+			background-image: url(petal.jpg);
+		}
+		
+.image {
+	height:400px; 
+	width:600px;
+	 display: block;
+    margin: auto;
+}
+
+.work{
+	background-color: pink;
+}
+
+a:hover, button{
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#btn1 {
+	margin:10px 5px;
+}
+
+#btn2 {
+	margin: 10px 5px;
+	
+}
+
+#btn3 {
+	margin:10px 5px;
+}
+
+
+.social {
+	text-align: left;
+}
+
+
+/*Meet the people.. */
+.arn{
+     text-align: center;
+     color: black;      
+ }
+            
+.cliff {
+      text-align: center;
+      color: black;
+ }
+            
+.frank {
+       text-align: center;
+       color: black;
+ }
+ 
+.img{
+       display: block;
+       margin: 0 auto;
+ }
+ 
